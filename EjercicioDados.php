@@ -10,9 +10,11 @@
 <body>
     <h1>Ejercicio 1</h1>
     <div class="ejercicio dados">
+    <form action="lanzarDados.php" method="POST">
         <h2>¿Cuantos dados quieres lanzar? (1-10):</h2>
         <input type="number" name="numero" required />
         <button type="submit">Lanzar</button>
+        </form>
     </div>
 </body>
 
