@@ -1,0 +1,6 @@
+Este proyecto lo hemos realizado cojuntamente Marcos Varela Muñoz y Angela Borges Cantarino.
+Nos hemos repartido el trabajo en partes, al ser un código pequeño no han habido muchos problemas de comunicación. 
+Primero hemos definido las variables que ibamos a utilizar, una vez creado el HTML y posteriormente el PHP hemos ido haciendo pruebas de CSS para cambiar la apariencia del proyecto.
+Hemos hecho varios intentos de subir modificaciones del proyecto sin pisarnos para poder tener varios backup, pero no hemos sido capaz, 
+con lo que si hubiese sido un proyecto grande puede dar problemas trabajar así si no está bien estructurado el reparto de tareas.
+Enlace de GitHub: https://github.com/AngelaBC929/Proyecto_DWES.git
