@@ -29,7 +29,7 @@
         }
 
         .dados {
-            background-color: red;
+            background-color: #c5f9d1;
             display: flex;
             justify-content: center;/* Centramos horizontalmente */
             flex-wrap: wrap; /* Ajustamos los dados a varias filas */
